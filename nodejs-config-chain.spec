@@ -5,9 +5,9 @@ Version:	1.1.5
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		http://github.com/dominictarr/config-chain
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
 # Source0-md5:	aa6b0be8d0564a06ef7638fb301ecef0
+URL:		http://github.com/dominictarr/config-chain
 BuildRequires:	rpmbuild(macros) >= 1.634
 BuildRequires:	sed >= 4.0
 Requires:	nodejs
